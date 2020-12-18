@@ -6,6 +6,12 @@
 
 软件使用易语言编写，开发环境为win10,win10系统可能会报毒误删文件，这是正常现象。
 
+**代码仓库：**
+
+码云Gitee：[点击查看](https://gitee.com/chinjiaqing/yys)
+
+GitHub ：[点击查看](https://github.com/chinjiaqing/hgs)
+
 ## 主要功能
 
 本软件为 <font color=green>自用版本，十分稳定</font> ，基本思路为识图+识字+范围内随机点击。
